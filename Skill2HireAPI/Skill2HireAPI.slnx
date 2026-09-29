@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Skill2Hire.Application/Skill2Hire.Application.csproj" Id="c1b4d6e0-60b5-48bc-9a73-ef87cea8e396" />
+  <Project Path="../Skill2Hire.Domain/Skill2Hire.Domain.csproj" Id="4392f5b6-4e83-494c-99f4-235e21aa9fb3" />
+  <Project Path="../Skill2Hire.Infrastructure/Skill2Hire.Infrastructure.csproj" Id="715f0e95-478c-4e0c-b2f5-e13a0e87d6e0" />
+  <Project Path="Skill2HireAPI.csproj" />
+</Solution>
