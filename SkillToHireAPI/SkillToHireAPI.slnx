@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../SkillToHire.Application/SkillToHire.Application.csproj" />
+  <Project Path="../SkillToHire.Domain/SkillToHire.Domain.csproj" />
+  <Project Path="../SkillToHire.Infrastructure/SkillToHire.Infrastructure.csproj" />
+  <Project Path="SkillToHireAPI.csproj" />
+</Solution>

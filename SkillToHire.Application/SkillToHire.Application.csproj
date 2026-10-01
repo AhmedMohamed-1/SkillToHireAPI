@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Auth\Commands\" />
+    <Folder Include="Features\Auth\DTOs\" />
+    <Folder Include="Features\Auth\Queries\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkillToHire.Domain\SkillToHire.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
